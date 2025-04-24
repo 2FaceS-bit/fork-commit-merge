@@ -11,7 +11,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/fork-commit-merge/fork-commit-merge)
 
 <br>
-Welcome to "Fork, Commit, Merge"!<br>A project designed to help you familiarize yourself with the open source contribution workflow on GitHub, as well as to help you learn the basics of programming with different languages, libraries and frameworks.
+Welcome to "Fork, Commit, Merge"!<br>A project designed to help you familiarize yourself with the open source contribution workflow on GitHub, as well as to help you learn the basics of programming with different languages, libra
+ries and frameworks.
 
 More info about this project, contributing and open source resources, are available on our website at
 <br>[forkcommitmerge.dev](https://forkcommitmerge.dev)
