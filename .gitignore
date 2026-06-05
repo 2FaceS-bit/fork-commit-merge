@@ -4,3 +4,17 @@
 **/.vscode/
 **/.DS_Store
 
+# IDE and editor folders
+.idea/
+*.iml
+
+# Clojure tooling
+.clj-kondo/
+.lsp/
+
+# Node.js modules
+node_modules/
+
+# Optional: IntelliJ logs and workspace files
+out/
+*.iws
