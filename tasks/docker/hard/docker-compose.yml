@@ -1,0 +1,11 @@
+# Docker - Hard
+
+# TODO: Create a Docker Compose setup for a microservices architecture
+# Requirements:
+# 1. Web application service (Node.js/React)
+# 2. API service (Node.js/Express)
+# 3. Database service (PostgreSQL)
+# 4. Cache service (Redis)
+# 5. Configure networks, volumes, and health checks
+# 6. Set up environment variables
+# 7. Implement logging

@@ -1,46 +1,47 @@
-# Contributing to the "Fork, Commit, Merge" Repository 🚀
+# Contributing to the "Fork, Commit, Merge" Repository
 
-First and foremost, we appreciate your interest in contributing! 🙌
+First and foremost, we appreciate your interest in contributing!
 
-This document outlines our guidelines for participating in this project. These are more like friendly suggestions than strict rules. Feel free to propose changes to this document through a pull request. 📝
+This document outlines our guidelines for participating in this project. These are more like friendly suggestions than strict rules. Feel free to propose changes to this document through a pull request.
 
-*Note: You don't need to seek permission to tackle an issue or get assigned. These issues are open to new contributors. The actions-user bot will reset the file to its previous state for the next contributor after your commit is merged. So, you can dive right into the issue without delay! 🏊‍♂️*
+_Note: You don't need to seek permission to tackle an issue or get assigned. These issues are open to new contributors. The actions-user bot will reset the file to its previous state for the next contributor after your commit is merged. So, you can dive right into the issue without delay!_
 
-## Code of Conduct 🤝
+## Code of Conduct
 
-This project, along with everyone involved, adheres to the [Code of Conduct](CODE_OF_CONDUCT.md). When participating, you are expected to uphold this code. If you encounter inappropriate behavior, please report it to [niko.hoffren@gmail.com](mailto:niko.hoffren@gmail.com). 🚫
+This project, along with everyone involved, adheres to the [Code of Conduct](CODE_OF_CONDUCT.md). When participating, you are expected to uphold this code. If you encounter inappropriate behavior, please report it to [niko.hoffren@gmail.com](mailto:niko.hoffren@gmail.com).
 
-## How Can I Contribute? 🤔
+## How Can I Contribute?
 
-### Reporting Bugs 🐞
+There are several ways you can contribute to this project:
+1. **Solve Tasks:**
+	- Browse the [Tasks](README.md#tasks) section and pick any open task.
+	- Follow the instructions in the task file and submit your solution.
+	- No need to ask for permission—just start working and submit a pull request when ready.
 
-In this section, we'll walk you through submitting a bug report for this project. Following these guidelines helps maintainers and the community understand your report, reproduce the issue, and identify related reports. 🕵️‍♀️
+2. **Suggest Enhancements or New Tasks:**
+	- Create an issue describing your idea or enhancement.
+	- You can also propose new tasks by adding files/directories in the `tasks` folder and opening a pull request.
+	- If your suggestion is accepted, you’ll be credited as the creator of the task.
 
-- Choose a clear and descriptive title for your issue to pinpoint the problem. 📢
-- Provide a detailed account of the exact steps that reproduce the issue. 📋
+3. **Improve Documentation:**
+	- Help us improve guides like the README, PREREQUISITES, or this CONTRIBUTING file.
+	- Fix typos, clarify instructions, or add helpful examples.
 
-### Suggesting Enhancements 💡
+4. **Report Bugs or Issues:**
+	- If you find a bug, open an issue with details and steps to reproduce.
+	- You can also suggest fixes or improvements directly via pull requests.
 
-This section guides you through submitting an enhancement suggestion for this project, which can range from entirely new features to minor improvements in existing functionality. These guidelines help maintainers and the community grasp your suggestion and make decisions regarding its implementation. 🛠️
+5. **Review Pull Requests:**
+	- Provide feedback on open pull requests to help maintain code quality and clarity.
 
-- Use a clear and descriptive title for the issue to identify the suggestion. 🚀
-- Furnish a step-by-step description of the suggested enhancement, including as many details as possible. 📈
+### Solving Issues
 
-### Your First Code Contribution 👩‍💻
+You can start by solving a task from the [Tasks](README.md#tasks) section. You can find instructions for installing the required tools for each task in [Prerequisites](README.md#prerequisites).
 
-Not sure where to start with your contribution to this project? You can begin by exploring the `good-first-issue` and `help-wanted` issues: 🚧
+### Suggesting Enhancements and New Tasks
 
-- `good-first-issue` - These issues typically require just a few lines of code and perhaps a test or two. 🛠️
-- `help-wanted` - These are slightly more involved than `good-first-issue` tasks. 💪
+You can suggest enhancements and new tasks by creating an issue in this repository. You can also suggest new tasks by designing them by creating new directories and files in the `tasks` folder and creating a pull request. It can be about existing programming languages, libraries, frameworks, or even new programming languages. If the task seems good, we will add it to the Issues section and add you as a creator of the task.
 
-## Pull Request Process 🚢
+## Pull Request Process
 
-1. Start by forking the repository and creating your branch from the `main` branch. 🍴
-2. If you've added code that needs testing, include tests. 🧪
-3. If necessary, update the documentation or README. 📖
-4. Ensure that the test suite runs without issues. ✅
-5. Finally, submit your pull request! 🎉
-
-You can ⭐ the repo as well! 🔥
-
-Now you're all set to contribute effectively and make a positive impact on our project! 🙏👏
+You can create a pull request by following these steps in [README.md](README.md). For detailed setup instructions, see the [Setup Instructions section in README.md](README.md#setup-instructions).

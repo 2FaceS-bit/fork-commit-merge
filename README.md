@@ -1,22 +1,23 @@
 <div align="center">
 
 ![Fork, Commit, Merge](/assets/images/fork-commit-merge-banner3.png)
-[![Version 1.2.0](https://img.shields.io/badge/Version-1.2.0-orange.svg)](https://github.com/fork-commit-merge/fork-commit-merge/pulls)
+[![Version 1.3.0](https://img.shields.io/badge/Version-1.3.0-orange.svg)](https://github.com/fork-commit-merge/fork-commit-merge/pulls)
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/fork-commit-merge/fork-commit-merge.svg?style=flat)](https://github.com/fork-commit-merge/fork-commit-merge/issues)
-[![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge.svg?style=flat)](https://github.com/fork-commit-merge/fork-commit-merge/stars)
+[![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge.svg?style=flat)](https://github.com/fork-commit-merge/fork-commit-merge/stargazers)
 [![Forks](https://img.shields.io/github/forks/fork-commit-merge/fork-commit-merge.svg?style=flat)](https://github.com/fork-commit-merge/fork-commit-merge/forks)
 [![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-brightgreen.svg)](https://github.com/fork-commit-merge/fork-commit-merge/pulls)
 [![First Contributors](https://img.shields.io/badge/first-contributors-brightgreen.svg)](https://github.com/fork-commit-merge/fork-commit-merge/pulls)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fork-commit-merge/fork-commit-merge)
 
 <br>
-Welcome to "Fork, Commit, Merge"!<br>A project designed to help you familiarize yourself with the open source contribution workflow on GitHub, as well as to help you learn the basics of programming with different languages, libraries and frameworks.
+Welcome to "Fork, Commit, Merge"!<br>A project designed to help you familiarize yourself with the open source contribution workflow on GitHub, as well as to help you learn the basics of programming with different languages, libra
+ries and frameworks.
 
 More info about this project, contributing and open source resources, are available on our website at
 <br>[forkcommitmerge.dev](https://forkcommitmerge.dev)
 
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTMX](https://img.shields.io/badge/htmx-%2302569B.svg?style=for-the-badge&logo=htmx&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%239B30FF.svg?style=for-the-badge&logo=vite&logoColor=yellow) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%2302569B.svg?style=for-the-badge&logo=Astro&logoColor=white) ![Solid.js](https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ember.js](https://img.shields.io/badge/ember.js-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apollo](https://img.shields.io/badge/-apollo-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/electron.js-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-%23646CFF.svg?style=for-the-badge&logo=Vitest&logoColor=white) ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![D](https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white) ![F#](https://img.shields.io/badge/F%23-378BBA.svg?style=for-the-badge&logo=fsharp&logoColor=fff) ![Ada](https://img.shields.io/badge/Ada-%23Clojure.svg?style=for-the-badge&logo=Ada&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23E32F26.svg?style=for-the-badge&logo=scala&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=yellow) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vyper](https://img.shields.io/badge/vyper-%23323330.svg?style=for-the-badge&logo=vyper&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23E32F26.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%239B30FF.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23007BCC.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23E32F26.svg?style=for-the-badge&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/haskell-%239B30FF.svg?style=for-the-badge&logo=haskell&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![OCaml](https://img.shields.io/badge/ocaml-%23ED8B00.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lisp](https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&logo=lisp&logoColor=red) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Pascal](https://img.shields.io/badge/pascal-%23007ACC.svg?style=for-the-badge&logo=pascal&logoColor=yellow) ![COBOL](https://img.shields.io/badge/COBOL-%232C2D72.svg?style=for-the-badge&logo=COBOL&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Smalltalk](https://img.shields.io/badge/smalltalk-%231572B6.svg?style=for-the-badge&logo=smalltalk&logoColor=%23F7DF1E) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=MATLAB&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![SQL](https://img.shields.io/badge/sql-%23FF4500.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TLA+](https://img.shields.io/badge/tla+-%239B30FF.svg?style=for-the-badge&logo=tla+&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%230D467A.svg?style=for-the-badge&logo=perl&logoColor=white) ![Mojo](https://img.shields.io/badge/Mojo-FF7139?style=for-the-badge&logo=Mojo&logoColor=white) ![ASM](https://img.shields.io/badge/asm-%23121011.svg?style=for-the-badge&logo=asm&logoColor=white) ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=blue) ![YAML](https://img.shields.io/badge/yaml-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=yellow) ![TOML](https://img.shields.io/badge/toml-%23000000.svg?style=for-the-badge&logo=toml&logoColor=white) ![XML](https://img.shields.io/badge/xml-%23000111.svg?style=for-the-badge&logo=xml&logoColor=white) ![CSV](https://img.shields.io/badge/csv-%23239120.svg?style=for-the-badge&logo=csv&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTMX](https://img.shields.io/badge/htmx-%2302569B.svg?style=for-the-badge&logo=htmx&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%239B30FF.svg?style=for-the-badge&logo=vite&logoColor=yellow) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%2302569B.svg?style=for-the-badge&logo=Astro&logoColor=white) ![Solid.js](https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ember.js](https://img.shields.io/badge/ember.js-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apollo](https://img.shields.io/badge/-apollo-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/electron.js-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-%23646CFF.svg?style=for-the-badge&logo=Vitest&logoColor=white) ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![D](https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white) ![F#](https://img.shields.io/badge/F%23-378BBA.svg?style=for-the-badge&logo=fsharp&logoColor=fff) ![Ada](https://img.shields.io/badge/Ada-%23Clojure.svg?style=for-the-badge&logo=Ada&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-%23009639.svg?style=for-the-badge&logo=spring_boot&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23E32F26.svg?style=for-the-badge&logo=scala&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=yellow) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vyper](https://img.shields.io/badge/vyper-%23323330.svg?style=for-the-badge&logo=vyper&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23E32F26.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%239B30FF.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23007BCC.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23E32F26.svg?style=for-the-badge&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/haskell-%239B30FF.svg?style=for-the-badge&logo=haskell&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![OCaml](https://img.shields.io/badge/ocaml-%23ED8B00.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lisp](https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&logo=lisp&logoColor=red) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Pascal](https://img.shields.io/badge/pascal-%23007ACC.svg?style=for-the-badge&logo=pascal&logoColor=yellow) ![COBOL](https://img.shields.io/badge/COBOL-%232C2D72.svg?style=for-the-badge&logo=COBOL&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Smalltalk](https://img.shields.io/badge/smalltalk-%231572B6.svg?style=for-the-badge&logo=smalltalk&logoColor=%23F7DF1E) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=MATLAB&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![SQL](https://img.shields.io/badge/sql-%23FF4500.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TLA+](https://img.shields.io/badge/tla+-%239B30FF.svg?style=for-the-badge&logo=tla+&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%230D467A.svg?style=for-the-badge&logo=perl&logoColor=white) ![Mojo](https://img.shields.io/badge/Mojo-FF7139?style=for-the-badge&logo=Mojo&logoColor=white) ![ASM](https://img.shields.io/badge/asm-%23121011.svg?style=for-the-badge&logo=asm&logoColor=white) ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=blue) ![YAML](https://img.shields.io/badge/yaml-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=yellow) ![TOML](https://img.shields.io/badge/toml-%23000000.svg?style=for-the-badge&logo=toml&logoColor=white) ![XML](https://img.shields.io/badge/xml-%23000111.svg?style=for-the-badge&logo=xml&logoColor=white) ![CSV](https://img.shields.io/badge/csv-%23239120.svg?style=for-the-badge&logo=csv&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
 
 _Find awesome badges for your project in this repository: [markdown-badges](https://github.com/Ileriayo/markdown-badges)_
 
@@ -26,95 +27,17 @@ _Find awesome badges for your project in this repository: [markdown-badges](http
 
 - [Quick Start](#quick-start)
 - [Prerequisites](#prerequisites)
-  - [Installing an IDE](#installing-an-ide)
-  - [Installing Git](#installing-git)
-  - [Installing NodeJS and NPM](#installing-nodejs-and-npm)
-  - [Installing SASS](#installing-sass)
-  - [Installing Tailwind CSS](#installing-tailwind-css)
-  - [Installing ReScript](#installing-rescript)
-  - [Installing CoffeeScript](#installing-coffeescript)
-  - [Installing JavaScript](#installing-javascript)
-  - [Installing TypeScript](#installing-typescript)
-  - [Installing React](#installing-react)
-  - [Installing Next.js](#installing-nextjs)
-  - [Installing Three.js](#installing-threejs)
-  - [Installing Vue.js](#installing-vuejs)
-  - [Installing Svelte](#installing-svelte)
-  - [Installing Astro](#installing-astro)
-  - [Installing Angular](#installing-angular)
-  - [Installing Solid.js](#installing-solidjs)
-  - [Installing Ember.js](#installing-emberjs)
-  - [Installing GraphQL](#installing-graphql)
-  - [Installing NGINX](#installing-nginx)
-  - [Installing Express.js](#installing-expressjs)
-  - [Installing Electron.js](#installing-electronjs)
-  - [Installing Jest](#installing-jest)
-  - [Installing Jasmine](#installing-jasmine)
-  - [Installing Vitest](#installing-vitest)
-  - [Installing C](#installing-c)
-  - [Installing C++](#installing-c)
-  - [Installing C# (Dotnet-SDK)](#installing-c-dotnet-sdk)
-  - [Installing Blazor (Dotnet-SDK)](#installing-blazor-dotnet-sdk)
-  - [Installing D (DMD Compiler)](#installing-d-dmd-compiler)
-  - [Installing F# (Dotnet-SDK)](#installing-f-dotnet-sdk)
-  - [Installing Ada](#installing-ada)
-  - [Installing Java](#installing-java)
-  - [Installing Kotlin](#installing-kotlin)
-  - [Installing Scala](#installing-scala)
-  - [Installing Groovy](#installing-groovy)
-  - [Installing Python](#installing-python)
-  - [Installing Flask](#installing-flask)
-  - [Installing Django](#installing-django)
-  - [Installing Solidity (Truffle Ethereum Development Environment)](#installing-solidity-truffle-ethereum-development-environment)
-  - [Installing Vyper](#installing-vyper)
-  - [Installing Ruby](#installing-ruby)
-  - [Installing Rails](#installing-rails)
-  - [Installing Elixir](#installing-elixir)
-  - [Installing Crystal](#installing-crystal)
-  - [Installing PHP](#installing-php)
-  - [Installing Laravel](#installing-laravel)
-  - [Installing Golang](#installing-golang)
-  - [Installing Dart](#installing-dart)
-  - [Installing Flutter](#installing-flutter)
-  - [Installing Swift](#installing-swift)
-  - [Installing React Native](#installing-react-native)
-  - [Installing Julia](#installing-julia)
-  - [Installing Rust](#installing-rust)
-  - [Installing Haskell](#installing-haskell)
-  - [Installing Lua](#installing-lua)
-  - [Installing Clojure](#installing-clojure)
-  - [Installing OCaml](#installing-ocaml)
-  - [Installing LaTeX](#installing-latex)
-  - [Installing Lisp](#installing-lisp)
-  - [Installing Fortran](#installing-fortran)
-  - [Installing Pascal](#installing-pascal)
-  - [Installing COBOL](#installing-cobol)
-  - [Installing Erlang](#installing-erlang)
-  - [Installing Smalltalk](#installing-smalltalk)
-  - [Installing Zig](#installing-zig)
-  - [Installing R](#installing-r)
-  - [Installing Nim](#installing-nim)
-  - [Installing MATLAB](#installing-matlab)
-  - [Installing Octave](#installing-octave)
-  - [Installing sqlite3](#installing-sqlite3)
-  - [Installing TLA+](#installing-tla-toolbox)
-  - [Installing Bash](#installing-bash)
-  - [Installing Perl](#installing-perl)
-  - [Installing Mojo](#installing-mojo)
-  - [Installing ASM (Assembly)](#installing-asm-assembly)
-  - [Installing Docker](#installing-docker)
-  - [Installing Kubernetes](#installing-kubernetes)
 - [Setup Instructions](#setup-instructions)
 - [Tasks](#tasks)
 - [Submitting Your Changes](#submitting-your-changes)
-- [Best Practices](#best-practices)
+- [Resolving Merge Conflicts](#resolving-merge-conflicts)
 - [Influences](#influences)
 - [What's Next?](#whats-next)
 - [Sponsors](#sponsors)
 - [Creating New Tasks](#creating-new-tasks)
 - [Contact](#contact)
 - [License](#license)
-- [List of Contibutors](#list-of-contributors)
+- [List of Contributors](#list-of-contributors)
 
 ![line]
 
@@ -128,1410 +51,9 @@ _Find awesome badges for your project in this repository: [markdown-badges](http
 
 ## Prerequisites
 
-- Before you start, you'll need to install [Git](#installing-git).
-- For HTML, HTMX, CSS, Bootstrap, JSON, YAML, TOML, XML or Markdown related issues, you don't need to install anything extra.
-- For SASS related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-- For Tailwind CSS related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-- For ReScript related issues, you need to install [Node.js and NPM](#installing-rescript).
-- For CoffeeScript related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm) as well as [CoffeeScript](#installing-coffeescript).
-- For JavaScript related issues, you need to install [Node.js and NPM](#installing-javascript).
-- For TypeScript related issues, you need to install [Node.js and NPM](#installing-typescript).
-- For React related issues, you need to install [Node.js and NPM](#installing-react).
-- For Next.js related issues, you need to install [Node.js and NPM](#installing-nextjs).
-- For Three.js related issues, you need to install [Node.js and NPM](#installing-threejs).
-- For Vue.js related issues, you need to install [Node.js and NPM](#installing-vue).
-- For Svelte related issues, you need to install [Node.js and NPM](#installing-svelte).
-- For Astro related issues, you need to install [Node.js and NPM](#installing-astro).
-- For Angular related issues, you need to install [Node.js and NPM](#installing-angular).
-- For Ember.js related issues, you need to install [Node.js and NPM](#installing-emberjs).
-- For GraphQL related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-- For NGINX related issues, you need to install [NGINX](#installing-nginx).
-- For Express.js related issues, you need to install [Node.js and NPM](#installing-expressjs).
-- For Electron.js related issues, you need to install [Node.js and NPM](#installing-electronjs).
-- For Jest related issues, you need to install [Node.js and NPM](#installing-jest).
-- For Jasmine related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-- For Vitest related issues, you need to install [Node.js and NPM](#installing-vitest).
-- For C related issues, you need to install [C](#installing-c).
-- For C++ related issues, you need to install [C++](#installing-c).
-- For C# related issues, you need to install [C# (Dotnet-SDK)](#installing-c-dotnet-sdk).
-- For Blazor related issues, you need to install [Blazor (Dotnet-SDK)](#installing-blazor-dotnet-sdk).
-- For D related issues, you need to install [D (DMD Compiler)](#installing-d-dmd-compiler).
-- For F# related issues, you need to install [F# (Dotnet-SDK)](#installing-f-dotnet-sdk).
-- For Ada related issues, you need to install [Ada](#installing-ada).
-- For Java related issues, you need to install [Java](#installing-java).
-- For Kotlin related issues, you need to install [Kotlin](#installing-kotlin) and [Java](#installing-java).
-- For Scala related issues, you need to install [Scala](#installing-scala).
-- For Groovy related issues, you need to install [Java](#installing-java) and [Groovy](#installing-groovy).
-- For Python related issues, you need to install [Python](#installing-python).
-- For Flask related issues, you need to install [Python](#installing-python) and [Flask](#installing-flask).
-- For Django related issues, you need to install [Python](#installing-python) and [Django](#installing-django).
-- For Solidity related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm) as well as [Installing Solidity (Truffle Ethereum Development Environment)](#installing-solidity-truffle-ethereum-development-environment).
-- For Vyper related issues, you need to install [Vyper](#installing-vyper).
-- For Ruby related issues, you need to install [Ruby](#installing-ruby).
-- For Rails related issues, you need to install [Ruby](#installing-ruby) and [Rails](#installing-rails).
-- For Elixir related issues, you need to install [Elixir](#installing-elixir).
-- For Crystal related issues, you need to install [Crystal](#installing-crystal).
-- For PHP related issues, you need to install [PHP](#installing-php).
-- For Laravel related issues, you need to install [PHP](#installing-php) and [Laravel](#installing-laravel).
-- For Go related issues, you need to install [Golang](#installing-golang).
-- For Dart related issues, you need to install [Dart](#installing-dart).
-- For Flutter related issues, you need to install [Dart](#installing-dart) and [Flutter](#installing-flutter).
-- For Swift related issues, you need to install [Swift](#installing-swift).
-- For React Native related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm) as well as [React Native](#installing-react-native).
-- For Julia related issues, you need to install [Julia](#installing-julia).
-- For Rust related issues, you need to install [Rust](#installing-rust).
-- For Haskell related issues, you need to install [Haskell](#installing-haskell).
-- For Lua related issues, you need to install [Lua](#installing-lua).
-- For Clojure related issues, you need to install [Clojure](#installing-clojure).
-- For OCaml related issues, you need to install [OCaml](#installing-ocaml).
-- For LaTeX related issues, you need to install [LaTeX](#installing-latex).
-- For Lisp related issues, you need to install [Lisp](#installing-lisp).
-- For Fortran related issues, you need to install [Fortran](#installing-fortran).
-- For Pascal related issues, you need to install [Pascal](#installing-pascal).
-- For COBOL related issues, you need to install [COBOL](#installing-cobol).
-- For Erlang related issues, you need to install [Erlang](#installing-erlang).
-- For Smalltalk related issues, you need to install [Smalltalk](#installing-smalltalk).
-- For Zig related issues, you need to install [Zig](#installing-zig).
-- For R related issues, you need to install [R](#installing-r).
-- For Nim related issues, you need to install [Nim](#installing-nim).
-- For MATLAB related issues, you need to install [MATLAB](#installing-matlab).
-- For Octave related issues, you need to install [Octave](#installing-octave).
-- For SQL related issues, you need to install [sqlite3](#installing-sqlite3).
-- For TLA+ related issues, you need to install [TLA+ Toolbox](#installing-tla-toolbox).
-- For Bash related issues, you need to install [Bash](#installing-bash).
-- For Perl related issues, you need to install [Perl](#installing-perl).
-- For ASM (Assembly) related issues, you need to install [ASM](#installing-asm).
-- For Docker related issues, you need to install [Docker](#installing-docker).
-- For Kubernetes related issues, you need to install [Kubernetes](#installing-kubernetes).
+Before you start working on the project, you need to install the prerequisites for the task you want to work on.
 
----
-
-### Installing an IDE
-
-An Integrated Development Environment (IDE) is a software application that consolidates basic tools required for software testing and development. An IDE typically consists of a source code editor, build automation tools, and a debugger. Some IDEs, like Android Studio or Visual Studio, even offer more advanced features such as version control, databases, cloud services, and more. Why use an IDE? Using an IDE can significantly speed up the development process by offering a variety of tools and features under one roof.
-
-Here are a few reasons why developers use IDEs:
-
-- Efficiency: With everything in one place, developers can write, test, and debug code without needing to switch between different tools.
-
-- Code Assistance: Many IDEs offer features like autocompletion, syntax highlighting, and suggestions, making the code-writing process smoother.
-
-- Integrated Debugging: Integrated debuggers allow developers to test and debug their programs within the IDE, speeding up the development cycle.
-
-- Extensions & Plugins: Most modern IDEs support a wide range of extensions and plugins, enabling developers to customize their environment and add even more functionalities.
-
-We recommend using VS Code as your IDE for this project. It's free, open-source, and supports a wide range of languages and extensions. You can download it from the [VS Code - Official website](https://code.visualstudio.com/). However, if you prefer to use another IDE, that's fine too!
-
-Instructions on how to install an IDE that suits for you can be found on our website at [forkcommitmerge.dev/tools/ide](https://www.forkcommitmerge.dev/tools/ide)!
-
----
-
-### Installing Git
-
-Git is a version control system that lets you manage and keep track of your source code history.
-
-- For Linux users, you can install Git via your distribution's package manager. For example, on Arch you would use the command: `sudo pacman -S git` and in Ubuntu/Debian: `sudo apt-get install git`
-- For macOS users, you can install Git via [Homebrew](https://brew.sh/) with the command: `brew install git`
-- For Windows users, download Git from [Git for Windows](https://gitforwindows.org/) and follow the installation instructions.
-
----
-
-### Installing Node.js and NPM
-
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine, and NPM is a package manager for Node.js.
-
-- You can download Node.js and NPM from the [official Node.js website](https://nodejs.org/en/download/). This will install both Node.js and NPM on your machine. Follow the instructions on the website to install them.
-
----
-
-### Installing SASS
-
-For SASS related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Tailwind CSS
-
-For Tailwind CSS related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing ReScript
-
-For ReScript related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing CoffeeScript
-
-CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript's brevity and readability.
-
-First you have to make sure you have [Node.js and NPM](#installing-nodejs-and-npm) installed.
-
-Install CoffeeScript with this command:
-
-```bash
-npm install --global coffeescript
-```
-
----
-
-### Installing JavaScript
-
-For JavaScript related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing TypeScript
-
-For TypeScript related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing React
-
-For React related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Next.js
-
-For Next.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Three.js
-
-For Three.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Vue.js
-
-For Vue.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Svelte
-
-For Svelte related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Astro
-
-For Astro related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Angular
-
-For Angular related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Solid.js
-
-For Solid.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Ember.js
-
-For Ember.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing GraphQL
-
-For GraphQL related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing NGINX
-
-- For macOS:
-
-Install Homebrew if you haven't:
-
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-Install NGINX:
-
-```bash
-brew install nginx
-```
-
-- For Linux (Ubuntu/Debian):
-
-Install NGINX:
-
-```bash
-sudo apt install nginx
-```
-
-- For Windows:
-
-Follow [this guide](https://nginx.org/en/docs/windows.html) to install NGINX on Windows.
-
-### Installing Express.js
-
-For Express.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Electron.js
-
-For Electron.js related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Jest
-
-For Jest related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Jasmine
-
-For Jasmine related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing Vitest
-
-For Vitest related issues, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-
----
-
-### Installing C
-
-Setup the C environment in VS Code:
-
-- Install the C/C++ extension for VS Code.
-
-Set up a compiler:
-
-- Windows: Install [MinGW](https://www.mingw-w64.org/).
-- macOS: Ensure you have the Xcode Command Line Tools installed (xcode-select --install).
-- Linux: Most distributions come with gcc installed, but if not, you can typically install it using your package manager (e.g., `sudo apt install gcc` for Debian-based distributions).
-
----
-
-### Installing C++
-
-If you are using VS Code, you can install the C++ extension:
-Launch VS Code, head to Extensions (or press Ctrl+Shift+X), and search for C++. Install the one by Microsoft called C/C++.
-
-Install a C++ Compiler:
-
-- Windows: Install [Mingw-w64](https://www.mingw-w64.org/doku.php) or [TDM-GCC](https://jmeubank.github.io/tdm-gcc/). After installation, make sure the compiler's bin directory is in your system's PATH.
-- Linux: You can usually install the GCC compiler with your distribution's package manager. For example, on Ubuntu/Debian, you'd run `sudo apt-get install g++`.
-- Mac: Install Xcode from the App Store. Once Xcode is installed, you'll also have the compiler.
-
----
-
-### Installing C# (Dotnet-SDK)
-
-#### Windows
-
-Using the Installer:
-
-- Go to the .NET download page.
-- Under the ".NET SDK" section, choose your preferred version.
-- Click on the "Download x64" or "Download Arm" button for Windows.
-- Once downloaded, run the installer and follow the on-screen instructions.
-
-Using the Command Line with Chocolatey:
-
-If you have Chocolatey installed, you can use it to install the .NET SDK:
-
-```bash
-choco install dotnet-sdk
-```
-
-#### Linux
-
-The instructions can vary depending on the Linux distribution. Here's a general overview:
-
-- Go to the .NET download page.
-- Under the ".NET SDK" section, choose your preferred version.
-- Select your specific Linux distribution from the list to get detailed instructions.
-
-For example, for Ubuntu, the instructions at the time of writing are:
-
-```bash
-wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
-sudo dpkg -i packages-microsoft-prod.deb
-
-sudo apt-get update
-sudo apt-get install -y apt-transport-https
-sudo apt-get update
-sudo apt-get install -y dotnet-sdk
-```
-
-And for Arch Linux, you can just install the dotnet-sdk package from the official repositories:
-
-```bash
-sudo pacman -S dotnet-sdk
-```
-
-Please note that the version and specific commands can change, so always refer to the official documentation for the most up-to-date instructions.
-
-#### macOS
-
-Using the Installer:
-
-- Go to the .NET download page.
-- Under the ".NET SDK" section, choose your preferred version.
-- Click on the "Download .NET SDK" button for macOS.
-- Once downloaded, run the installer and follow the on-screen instructions.
-
-Using Homebrew:
-
-If you have Homebrew installed, you can use it to install the .NET SDK:
-
-```bash
-brew install --cask dotnet-sdk
-```
-
-After installation, you can test if it's installed correctly by running:
-
-```bash
-dotnet --version
-```
-
-Setting up C# in Visual Studio Code:
-
-- Launch Visual Studio Code.
-- Open the Extensions view (Ctrl+Shift+X).
-- Search for the C# extension provided by Microsoft and install it.
-- Once the extension is installed, it will prompt you to install the .NET Core SDK if it's not already installed. Please follow the link and instructions to install it.
-
----
-
-### Installing Blazor (Dotnet-SDK)
-
-Look the instructions for [C# (Dotnet-SDK)](#installing-c-dotnet-sdk) to install the .NET SDK.
-
----
-
-### Installing D (DMD Compiler)
-
-For Windows and macOS, you can download the DMD (D Compiler) from the [official website](https://dlang.org/download.html) and follow the installation instructions.
-For Linux you can use your package manager, for example in Arch Linux you can install DMD with `sudo pacman -S dmd`.
-
-VS Code Setup:
-
-- Open VS Code and go to Extensions (or press Ctrl+Shift+X).
-- Search for "D Programming Language (code-d)" and install it. This will add D language support in VS Code.
-
----
-
-### Installing F# (Dotnet-SDK)
-
-For Windows Users:
-
-- F# comes bundled with Visual Studio, so installing [Visual Studio](https://visualstudio.microsoft.com/vs/features/net-development/) with .NET support should suffice.
-- Alternatively, you can also install F# through the [.NET SDK](https://dotnet.microsoft.com/en-us/download).
-
-For macOS and Linux Users:
-
-- Install [Mono](https://www.mono-project.com/).
-- Alternatively, you can also install F# through the [.NET SDK](https://dotnet.microsoft.com/en-us/download).
-
-Visual Studio Code:
-
-- Install the Ionide for F# extension for F# support in VS Code.
-
----
-
-### Installing Ada
-
-Windows:
-
-- Download GNAT Community edition for Ada from here.
-- Install GNAT.
-- Add the GNAT bin directory to your PATH environment variable.
-
-macOS/Linux:
-
-- Open your terminal.
-- Install GNAT via package manager. For example, on macOS with Homebrew: `brew install gnat` or on Ubuntu: `sudo apt install gnat`.
-- Confirm installation by running `gnatls --version`.
-
----
-
-### Installing Java
-
-Install Java Development Kit (JDK):
-
-Before working with Java in VS Code, you must have the Java Development Kit (JDK) installed on your machine.
-
-- Windows/Mac/Linux: You can download the JDK from [Oracle's official website](https://www.oracle.com/java/technologies/downloads/#java11) or opt for OpenJDK.
-
-Install Java Extensions for VS Code:
-
-- Open VS Code, go to the Extensions view by clicking on the square icon on the sidebar or pressing Ctrl+Shift+X. Search for "Java Extension Pack" by Microsoft and install it. This pack includes essential Java extensions like Language Support, Debugging, Testing, and more.
-
-Configure Java in VS Code:
-
-- VS Code should automatically detect the JDK you installed. If not, you can set the `java.home` setting in VS Code to point to your JDK location.
-
----
-
-### Installing Kotlin
-
-- macOS: `brew install kotlin`
-- Linux:
-  - Arch: `sudo pacman -S kotlin`
-  - Ubuntu/Debian: `sudo snap install --classic kotlin`
-- Windows: Download [Kotlin Compiler](https://github.com/JetBrains/kotlin/releases/tag/v1.9.0) and add it to the PATH.
-
-Install Kotlin Language Extension:
-
-For VS Code you can install the Kotlin Language Extension like this:
-
-- Go to Extensions (you can use the shortcut Ctrl+Shift+X).
-- Search for "Kotlin" and install the "Kotlin Language" extension by FWCD.
-
-Install Java Development Kit (JDK):
-
-- Kotlin runs on the JVM, so you'll need the [Java Development Kit - JDK](#installing-java) installed.
-
----
-
-### Installing Scala
-
-**macOS:**
-
-```bash
-brew install scala sbt
-```
-
-**Linux:**
-
-Ubuntu/Debian:
-
-```bash
-sudo apt-get install scala sbt
-```
-
-**Windows:**
-
-You can download and install from the official websites: [Scala](https://www.scala-lang.org/download/) & [SBT](https://www.scala-sbt.org/download.html).
-
-Install the Scala Language Extension for VS Code:
-
-- Open VS Code.
-- Navigate to Extensions (shortcut: Ctrl+Shift+X).
-- Search for "Scala" and install the "Scala (Metals)" extension, which is the official Scala language server.
-
----
-
-### Installing Groovy
-
-Install Java:
-
-- Groovy runs on the JVM, so you'll need [Java](#installing-java) installed.
-
-Install Groovy:
-
-- On Windows: You can use the [Groovy Windows Installer](https://groovy.apache.org/download.html) to install Groovy easily.
-- On macOS: You can use Homebrew to install Groovy. Open your terminal and run `brew install groovy`.
-- On Linux: You can use a your distribution's package manager to install Groovy. For example, on Ubuntu/Debian, you can run `sudo apt-get install groovy` and on Arch Linux `sudo pacman -S groovy`.
-
----
-
-### Installing Python
-
-#### Windows:
-
-- Visit the official Python website's [download page](https://www.python.org/downloads/).
-- Click on the latest Python release.
-- Scroll down to the Files section and download the Windows x86-64 executable installer for 64-bit version of Windows.
-- Run the installer file and follow the instructions, making sure to tick the box that says "Add Python to PATH" before clicking Install Now.
-
-#### Mac OS:
-
-Mac OS X should come pre-installed with Python, but in case it's not installed, here's how to install it:
-
-- Visit the official Python website's [download page](https://www.python.org/downloads/).
-- Click on the latest Python release.
-- Download the macOS 64-bit installer.
-- Open the downloaded .pkg file and follow the instructions to install Python.
-
-#### Linux:
-
-Most Linux distributions come with Python pre-installed. To check if you have Python installed, open a terminal and type `python3 --version`.
-
-If you need to install or upgrade Python, you can do so with the package manager for your Linux distribution. For Ubuntu, you can use the following commands:
-
-```bash
-sudo apt update
-sudo apt install python3
-```
-
----
-
-### Installing Flask
-
-You should have already installed [Python](#installing-python) before installing Flask. If you haven't, please do so first. You can check if you have Python installed by opening a terminal and typing `python3 --version`.
-In most operating systems, after you have Python installed, you can install Flask with the command:
-
-```bash
-pip install Flask
-```
-
-In Arch Linux you can run:
-
-```bash
-sudo pacman -S python-flask
-```
-
----
-
-### Installing Django
-
-- Install [Python](#installing-python) if you haven't already.
-- Install Django:
-  - With pip: `pip install django`
-  - In Arch Linux you can use: `sudo pacman -S python-django`
-
----
-
-### Installing Solidity (Truffle Ethereum Development Environment)
-
-Before you can start writing Solidity code, you need to install [Node.js and NPM](#installing-nodejs-and-npm).
-After installing Node.js and NPM, you can install the Truffle development environment for Ethereum with this command:
-
-```bash
-npm install -g truffle
-```
-
-If you are using VS Code, you can install the "Solidity" extension by Juan Blanco from the VS Code Marketplace.
-
----
-
-### Installing Vyper
-
-It is highly recommended to use a Python virtual environment. If you don't have virtualenv installed, you can install it using pip:
-
-```bash
-pip install virtualenv
-```
-
-Create a new virtual environment:
-
-```bash
-virtualenv vyper-env
-```
-
-Activate the virtual environment:
-
-_On macOS and Linux:_
-
-```bash
-source vyper-env/bin/activate
-```
-
-_On Windows:_
-
-```bash
-.\vyper-env\Scripts\activate
-```
-
-Install Vyper within the virtual environment:
-
-```bash
-pip install vyper
-```
-
----
-
-### Installing Ruby
-
-#### Windows:
-
-Download the RubyInstaller for Windows from the [official website](https://rubyinstaller.org/).
-Run the installer package and follow the on-screen instructions.
-
-#### Mac OS:
-
-Ruby comes pre-installed on Mac OS X, but if you need to upgrade or install a different version, you can use Homebrew or RVM (Ruby Version Manager).
-
-**With Homebrew**:
-
-Open terminal and type `brew install ruby`
-
-**With RVM**:
-
-Open Terminal and type `\curl -sSL https://get.rvm.io | bash -s stable`
-Then install Ruby with `rvm install ruby`
-
-#### Linux:
-
-**Ubuntu/Debian**:
-
-Open Terminal and type `sudo apt-get install ruby-full`
-
-**Arch Linux**:
-
-Open Terminal and type `sudo pacman -S ruby`
-
-For other Linux distributions, the command may be different. Refer to the documentation specific to your package manager.
-
----
-
-### Installing Rails
-
-Install [Ruby](#installing-ruby) if you haven't already.
-
-MacOS:
-
-- Install Homebrew if you haven't already: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-- Install Ruby: `brew install ruby`
-- Install Rails: `gem install rails`
-
-On Windows:
-
-- Download RubyInstaller from [here](https://rubyinstaller.org/).
-- Follow the installation steps.
-- Open command prompt and run `gem install rails`.
-
-On Linux:
-
-- Install RVM (Ruby Version Manager): `\curl -sSL https://get.rvm.io | bash -s stable --ruby`
-- Install Ruby: `rvm install ruby`
-- Install Rails: `gem install rails`
-
----
-
-### Installing Elixir
-
-Install the ElixirLS extension for VS Code:
-Launch VS Code, head to Extensions (or press Ctrl+Shift+X), and search for ElixirLS. This extension provides Elixir language support and debugger.
-
-Install Elixir:
-
-- Windows: The easiest way to install Elixir on Windows is by using Windows Subsystem for Linux (WSL).
-- Linux: You can typically install Elixir through your distribution's package manager. For example, on Ubuntu/Debian:
-
-```bash
-sudo apt-get install elixir
-```
-
-- Mac: You can use Homebrew:
-
-```bash
-brew install elixir
-```
-
----
-
-### Installing Crystal
-
-Linux (Ubuntu): `sudo apt install crystal`
-Linux (Arch): `sudo pacman -S crystal`
-macOS: `brew install crystal`
-Windows: [Official Installation Guide](https://crystal-lang.org/install/)
-
-VS Code Extension:
-
-- Install the Crystal Language extension by The Crystal Programming Language for syntax highlighting, code completion, and more.
-
----
-
-### Installing PHP
-
-Windows:
-
-- Download the PHP ZIP package from https://windows.php.net/download.
-- Extract the ZIP file and rename the extracted directory to php.
-- Move the php directory to C:\.
-- Add C:\php to your system's PATH environment variable.
-
-Mac OS:
-
-PHP comes pre-installed on Mac OS X. To upgrade or install a different version, consider using Homebrew:
-
-- Open Terminal and type `brew install php`.
-
-Linux (Ubuntu/Debian):
-
-- Open Terminal and type `sudo apt install php`.
-
----
-
-### Installing Laravel
-
-Install PHP:
-
-- If you haven't already, you need to install [PHP](#installing-php) first to work with Laravel.
-
-Install Laravel:
-
-- Make sure you have [Composer](https://getcomposer.org/) installed. If not, download and install it from the [Official Composer website](https://getcomposer.org/).
-- After installing Composer, open your terminal and run `composer global require laravel/installer` to install Laravel.
-- You might need to add the composer's bin directory to your PATH environment variable. For example, on Windows, you would add `C:\Users\<username>\AppData\Roaming\Composer\vendor\bin` to your PATH and in Linux `export PATH=$PATH:~/.config/composer/vendor/bin` to your `.bashrc` file.
-
----
-
-### Installing Golang
-
-For macOS and Linux, you can use the terminal to install Go:
-
-- On macOS, if you have Homebrew installed, type: `brew install go`.
-- On Linux, the command will depend on your distro's package manager. For example, on Ubuntu or Debian, you would type: `sudo apt-get install golang`.
-- On Windows, go to the official [Go downloads page](https://go.dev/dl/), and download the binary release suitable. Use the MSI installer and follow the prompts to install the Go tools. It is recommended to leave the default settings for when asked about installation directory or PATH variables.
-
-To check your installation, open a terminal and type: `go version`. This should return the installed version of Go.
-
----
-
-### Installing Dart
-
-For macOS and Linux, you can use the terminal to install Dart:
-
-- On macOS, if you have Homebrew installed, type: `brew install dart`.
-- On Linux, the command will depend on your distro's package manager. For example, on Ubuntu or Debian, you would type: `sudo apt-get install dart`.
-
-For Windows, go to the official [Dart SDK Install page](https://dart.dev/get-dart), and download the SDK suitable for your system. Use the Dart installer and follow the prompts to install the Dart SDK. It is recommended to leave the default settings for when asked about installation directory or PATH variables.
-
-To check your installation, open a terminal and type: dart --version. This should return the installed version of Dart.
-
----
-
-### Installing Flutter
-
-Flutter installation includes several steps, so it's recommended to follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
-
-Installing Flutter requires also installing Dart, which you can either install separately [here](#installing-dart), but it can also be installed with Android Studio or XCode. You can use VS Code as your IDE if you like, but it is recommended to still install [Android Studio](https://developer.android.com/studio) for Windows and Linux or [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) for MacOS, as they include the Android SDK and iOS SDK respectively.
-However, you can also install Flutter without installing Android Studio or Xcode, but you'll need to install the Android SDK and iOS SDK separately.
-
-Install Flutter and Dart Plugins in VS Code:
-
-- Open VS Code and go to Extensions (Ctrl+Shift+X).
-- Search for "Flutter" and install it.
-- The Dart plugin will be automatically installed along with Flutter.
-
----
-
-### Installing Swift
-
-Install Swift:
-
-- For macOS: Swift comes pre-installed. If not, you can download it from the [Swift website](https://swift.org/download/).
-- For Linux: Follow the instructions on the [Swift website](https://swift.org/download/) for Linux installations.
-
-VS Code Setup:
-
-- Search for the "Swift" extension by Swift Server Work Group and install it. This extension provides support for Swift language, including features like autocomplete, linting, and debugging.
-
-Additional Resources:
-
-[Swift.org - Getting Started](https://swift.org/getting-started/)
-
----
-
-### Installing React Native
-
-Install React Native CLI:
-
-```bash
-npm install -g react-native-cli
-```
-
-Set up the Android development environment by following the [React Native Environment Setup](https://reactnative.dev/docs/environment-setup?guide=native).
-
----
-
-### Installing Julia
-
-- Windows: Download the installer from the [Official Julia website](https://julialang.org/downloads/) and follow the instructions.
-- macOS: Download the macOS installer from the [Official Julia website](https://julialang.org/downloads/) and follow the instructions.
-- Linux: Use the appropriate package manager for your distribution. For example in Arch Linux you would use `sudo pacman -S julia`, or download the binaries from the [Official Julia website](https://julialang.org/downloads/).
-
-Install the Julia extension for VS Code:
-
-- Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
-- Search for "Julia" and install the extension provided by the Julia Language team.
-
----
-
-### Installing Rust
-
-Windows:
-
-- Go to rust-lang.org to download the "rustup-init.exe" installer.
-- Run the installer and follow the on-screen instructions.
-- Once installation is complete, open a new Command Prompt and verify with `rustc --version`.
-
-Mac and Linux:
-
-- Open a terminal.
-- Run the following command:
-
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-
-- Follow the on-screen instructions.
-- Restart your terminal (or source the changes as instructed at the end of the installation) to ensure the cargo and rustc commands are available.
-- You can verify the installation with `rustc --version`.
-
----
-
-### Installing Haskell
-
-Install Haskell Platform:
-
-The Haskell Platform provides everything needed to get started with Haskell.
-
-- Windows: You can download the Haskell Platform from [Haskell's official website](https://www.haskell.org/downloads/).
-- Mac/Linux: You can install GHCup for Haskell by running `curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh` in your Terminal and following the instructions.
-
-Install Haskell Extensions for VS Code:
-
-- Open VS Code, go to the Extensions view by clicking on the square icon on the sidebar or pressing Ctrl+Shift+X. Search for "Haskell Syntax Highlighting" and install it. Also, consider installing "Haskell Language Server" for enhanced features such as type information, autocompletion, and more.
-
----
-
-### Installing Lua
-
-- macOS: `brew install lua`
-- Ubuntu/Debian: `sudo apt-get install lua5.3`
-- Arch Linux: `sudo pacman -S lua`
-- Windows: Download and install from the official website: [Lua.org](https://www.lua.org/start.html)
-
----
-
-### Installing Clojure
-
-On macOS:
-
-```bash
-brew install clojure/tools/clojure
-```
-
-On Linux (using curl):
-
-```bash
-curl -O https://download.clojure.org/install/linux-install-1.10.3.967.sh
-chmod +x linux-install-1.10.3.967.sh
-sudo ./linux-install-1.10.3.967.sh
-```
-
-On Arch Linux:
-
-```bash
-sudo pacman -S clojure
-```
-
-On Windows:
-
-- Download the Windows installer from the [Clojure Official Site](https://clojure.org/guides/getting_started).
-
-Setting up Calva for VS Code:
-
-- Install the Calva extension from the VS Code marketplace. Calva is a rich integrated development environment for Clojure, providing an interactive REPL, linting, and more.
-
-Install Leiningen, a popular Clojure build tool:
-
-On macOS:
-
-```bash
-brew install leiningen
-```
-
-On Arch Linux:
-
-```bash
-sudo pacman -S leiningen
-```
-
----
-
-### Installing OCaml
-
-You can use the OPAM (OCaml Package Manager) to install the OCaml compiler and tools.
-
-On macOS:
-
-```bash
-brew install opam
-opam init
-opam switch create 4.13.1
-eval $(opam env)
-```
-
-On Linux (Ubuntu/Debian):
-
-```bash
-sudo apt-get install opam
-opam init
-opam switch create 4.13.1
-eval $(opam env)
-```
-
-On Windows:
-
-Installation is a bit more involved. Consider using [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install) or refer to the official [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw/installation/) instructions.
-
----
-
-### Installing LaTeX
-
-Depending on your operating system, you'll need a TeX distribution:
-
-- Windows: [MikTeX](https://miktex.org/download) or [TeX Live](https://www.tug.org/texlive/acquire-netinstall.html)
-- macOS: [MacTeX](https://www.tug.org/mactex/)
-- Linux: TeX Live (`sudo apt-get install texlive` for Debian/Ubuntu distributions)
-
-While you can use any text editor (like VS Code) to write LaTeX, specialized LaTeX editors make the process smoother. You can download for example [TeXstudio](https://www.texstudio.org/), [TeXmaker](https://www.xm1math.net/texmaker/), or [Overleaf](https://www.overleaf.com/).
-
----
-
-### Installing Lisp
-
-Install SBCL (Steel Bank Common Lisp):
-
-Depending on your OS, you can follow the instructions on the [Official SBCL website](http://www.sbcl.org/platform-table.html) to install SBCL.
-
-Install the Lisp Extension for VS Code:
-
-- Open Visual Studio Code.
-- Go to Extensions.
-- Search for Lisp and install any Lisp extension you like. Usually the one that has the most downloads is the most safest.
-
-Set Up Your Lisp Environment (Windows):
-
-After installing the extension, you may need to set up your Lisp environment by pointing it to your SBCL installation. You need to adjust the configuration (settings.json) and set the lisp.sbcl.path to the path where SBCL is installed.
-
----
-
-### Installing Fortran
-
-#### Installing Fortran Compiler:
-
-Depending on your OS, here's how you install the Fortran compiler:
-
-**Windows:**
-
-- Download and install the [MinGW-w64](https://www.mingw-w64.org/) compiler which includes Fortran.
-- Add the bin directory of your MinGW-w64 installation to your PATH environment variable.
-
-**Linux:**
-
-Ubuntu/Debian:
-
-```bash
-sudo apt-get install gfortran
-```
-
-Arch Linux:
-
-```bash
-sudo pacman -S gcc-fortran
-```
-
-**macOS:**
-
-If you have Homebrew:
-
-```bash
-brew install gcc
-```
-
-Setting up Visual Studio Code:
-
-- Install Visual Studio Code.
-- Open VS Code and go to the Extensions view by clicking on the square icon on the sidebar or pressing Ctrl+Shift+X.
-- Search for and install the "Modern Fortran" extension for Fortran support.
-- For better integration, you can also install the "Code Runner" extension which will allow you to run your Fortran code directly from VS Code.
-
----
-
-### Installing Pascal
-
-Windows:
-
-- Download and install the Free Pascal compiler from [here](https://www.freepascal.org/download.html).
-- Install the Pascal extension from the Visual Studio Code marketplace.
-- Configure the path for the Free Pascal compiler in your settings if needed.
-
-Linux:
-
-- Install the Free Pascal compiler using your package manager, e.g., sudo apt install fp-compiler on Ubuntu.
-- Install the Pascal extension from the Visual Studio Code marketplace.
-- Configure the path for the Free Pascal compiler in your settings if needed.
-
-macOS:
-
-- Install Free Pascal via Homebrew with brew install fpc.
-- Install the Pascal extension from the Visual Studio Code marketplace.
-- Configure the path for the Free Pascal compiler in your settings if needed.
-
----
-
-### Installing COBOL
-
-Installing GnuCOBOL:
-
-- For Windows: Download from [SourceForge](https://sourceforge.net/projects/gnucobol/).
-- For Linux: Use the package manager, like `sudo apt install gnucobol` or equivalent for your distribution.
-- For macOS: Use Homebrew with `brew install gnu-cobol`.
-
----
-
-### Installing Erlang
-
-**Windows:**
-
-- Download the installer from the official Erlang website: [Erlang Downloads](https://www.erlang.org/downloads)
-- Run the installer and follow the on-screen instructions.
-
-**Linux:**
-Ubuntu/Debian:
-
-```bash
-sudo apt-get install erlang
-```
-
-Arch Linux:
-
-```bash
-sudo pacman -S erlang
-```
-
-**macOS:**
-
-Using Homebrew:
-
-```bash
-brew install erlang
-```
-
-Setting up VS Code extension:
-
-- Search for erlang and install the Erlang extension provided by "Pierrick Gourlain".
-
----
-
-### Installing Smalltalk
-
-If you're using Linux, you can install GNU Smalltalk through your package manager. For example, on Ubuntu:
-
-```bash
-sudo apt-get install gnu-smalltalk
-```
-
-In Arch Linux you can download Smalltalk packages from AUR repositories. For example, you can use Yay:
-
-```bash
-yay -S smalltalk
-```
-
-For other OS installations, you can visit [GNU Smalltalk official website](https://www.gnu.org/software/smalltalk/).
-
----
-
-### Installing Zig
-
-**Windows and macOS:**
-
-- Download the Zig compiler from the official Zig website: Zig Downloads
-- Extract the downloaded package to a directory of your choice.
-- Add the bin directory inside the extracted folder to your system's PATH.
-
-**Linux:**
-
-The command depends on your distribution.
-
-For example, on Ubuntu/Debian, you can use:
-
-```bash
-sudo apt-get install zig
-```
-
-In Arch Linux:
-
-```bash
-sudo pacman -S zig
-```
-
-Setting up VS Code extension:
-
-- Open the Extensions view (Ctrl+Shift+X).
-- Search for zig and install the Zig Language extension provided by "ziglang".
-
----
-
-### Installing R
-
-Windows:
-
-- Download R from [CRAN](https://cran.r-project.org/mirrors.html) and install it.
-- Download [Rtools](https://cran.r-project.org/bin/windows/Rtools/) and install it.
-- Add R and Rtools to your system PATH.
-
-macOS:
-
-- You can install R using [Homebrew](https://brew.sh/): `brew install R`.
-
-Linux:
-
-- Use your package manager to install R. For example, on Ubuntu: `sudo apt-get install r-base` and on Arch: `sudo pacman -S r`.
-
-Setting up VS Code extension:
-
-- Open the Extensions view (Ctrl+Shift+X).
-- Search for `R` and install the R extension provided by "REditorSupport".
-
----
-
-### Installing Nim
-
-On Windows:
-
-- Download the Nim installer from the [Official Nim website](https://nim-lang.org/install_windows.html) and follow the installation instructions.
-
-On macOS:
-
-- You can use Homebrew to install Nim. Open your terminal and run `brew install nim`.
-
-On Linux:
-
-- You can use a package manager like apt, dnf, or pacman to install Nim. For example, on Ubuntu/Debian-based systems, run `sudo apt-get install nim` or on Arch Linux `sudo pacman -S nim`.
-
----
-
-### Installing MATLAB
-
-Install MATLAB:
-
-- Ensure you have MATLAB installed on your computer. You can download and install MATLAB from the official MathWorks website: [Download MATLAB](https://www.mathworks.com/login?uri=%2Fdownloads%2Fweb_downloads)
-
-Install the MATLAB Extension for Visual Studio Code:
-
-- Open Visual Studio Code and go to the Extensions view by clicking on the square icon in the sidebar on the left or using the shortcut Ctrl+Shift+X (Windows/Linux) or Cmd+Shift+X (macOS).
-- Search for "MATLAB" in the Extensions view search bar. You should find an extension named "MATLAB" by MathWorks. Click the Install button to install it.
-
-Configure the MATLAB Extension:
-
-- Once the extension is installed, configure it to work with your MATLAB installation. You may need to specify the MATLAB executable path in the VS Code settings.
-
----
-
-### Installing Octave
-
-Install Octave:
-
-- Download and install Octave for your operating system from the official [Octave website](https://www.octave.org/download.html).
-
-Install the Octave extension for VS Code:
-
-- Open VS Code, go to the Extensions view by clicking on the square icon in the sidebar or pressing Ctrl+Shift+X, and search for "Octave". Install the "Octave" extension provided by Juan Manuel Franco C.
-
----
-
-### Installing sqlite3
-
-#### macOS and Linux:
-
-SQLite comes pre-installed on macOS and most Linux distributions. To verify if sqlite3 is installed, you can open a terminal and type:
-
-```bash
-sqlite3 --version
-```
-
-If SQLite is installed, this will output the version number.
-
-#### Windows:
-
-To install SQLite on Windows:
-
-- Visit the SQLite download page.
-- In the "Precompiled Binaries for Windows" section, download the `sqlite-tools-win32-x86-xxxxxx.zip` file.
-- Unzip the downloaded file. It will create a directory named `sqlite-tools-win32-x86-xxxxxx`.
-- Move the directory to `C:\` (or another location if you prefer) and rename it to `sqlite`.
-- Add `C:\sqlite` to your PATH environment variable.
-
-To check whether SQLite has been installed successfully, open Terminal window and run:
-
-```bash
-sqlite3 --version
-```
-
-This should output the version number if SQLite is installed correctly.
-
-Note that the terminal in Visual Studio Code (VS Code) uses your system's PATH, so once you've added SQLite to your PATH as described above, you'll be able to use SQLite in the VS Code terminal.
-
----
-
-### Installing TLA+ Toolbox
-
-**The TLA Toolbox is an IDE (integrated development environment) for the TLA+ tools.**
-
-Install the TLA+ Toolbox: This is the standard IDE for TLA+. You can download it from [here](https://lamport.azurewebsites.net/tla/toolbox.html).
-
-Install the TLA+ extension for Visual Studio Code from the VS Code marketplace.
-
----
-
-### Installing Bash
-
-Ensure you have a UNIX-like environment. If you're on Linux or MacOS, you're already set. Windows users might want to look into [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install) or use Git Bash, which you should already have in your machine if you have installed [Git](#installing-git).
-
----
-
-### Installing Perl
-
-- Windows: Use Strawberry Perl. Download the installer and follow the on-screen instructions.
-- macOS: Perl comes pre-installed. You can check its version by typing perl -v in your terminal.
-- Linux: Depending on your distribution, you can use your package manager. For example, on Debian-based systems, you can use `sudo apt-get install perl` and in Arch Linux `sudo pacman -S perl`.
-
-Setting up VS Code for Perl:
-
-- Search for the extension "Perl" in VS Code's extensions marketplace and install it for syntax highlighting and basic debugging support.
-
----
-
-### Installing Mojo
-
-#### macOS
-
-- Install Brew by following this [guide](https://docs.brew.sh/Installation).
-- Open a terminal and run the following commands:
-
-```bash
-brew update
-brew upgrade modular
-modular install mojo
-```
-
-#### Linux (Ubuntu/Debian)
-
-To install Mojo on Linux (Ubuntu/Debian), you need to install Modular first. Follow these steps:
-
-```bash
-sudo apt update
-sudo apt install modular
-modular install mojo
-```
-
----
-
-### Installing ASM (Assembly)
-
-#### Windows
-
-Using NASM with Cygwin:
-
-- Download the Cygwin installer from [Cygwin's website](https://cygwin.com/install.html).
-- Run the installer and select the packages "nasm" and "gcc-core" for installation.
-- Complete the installation process.
-
-Now you can use the Cygwin terminal to assemble and run your Assembly programs.
-
-#### Linux (Ubuntu/Debian)
-
-Open the terminal and run the following command to install GNU Assembler (GAS):
-
-```bash
-sudo apt update
-sudo apt install build-essential
-```
-
-To install NASM, run:
-
-```bash
-sudo apt install nasm
-```
-
-#### macOS
-
-Install NASM using Homebrew:
-
-```bash
-brew install nasm
-```
-
----
-
-### Installing Docker
-
-#### Windows
-
-- Docker Desktop for Windows: You must have Hyper-V and Containers Windows features enabled.
-
-  - Download the installer from [Docker Hub](https://docs.docker.com/desktop/install/windows-install/).
-  - Run the installer and follow the instructions.
-  - After installation, the Docker daemon should start automatically. You can manage it through the system tray.
-
-- Docker Toolbox: For older systems that do not meet the Docker Desktop for Windows requirements.
-  - Download the installer from [Docker Toolbox GitHub releases](https://github.com/docker-archive/toolbox/releases).
-  - Run the installer and follow the instructions.
-
-#### macOS
-
-- Docker Desktop for Mac:
-  - Download the installer from [Docker Hub](https://docs.docker.com/desktop/install/mac-install/).
-  - Drag and drop the Docker app into the Applications folder.
-  - Run the Docker app. Docker will prompt you for permissions to install its components. Allow it.
-
-#### Linux (Ubuntu/Debian)
-
-Update package index and install prerequisites:
-
-```bash
-sudo apt-get update
-sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
-```
-
-Add Docker’s official GPG key:
-
-```bash
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-```
-
-Add Docker APT repository:
-
-```bash
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-```
-
-Update package index and install Docker:
-
-```bash
-sudo apt-get update
-sudo apt-get install docker-ce
-```
-
-Start and enable Docker service:
-
-```bash
-sudo systemctl enable docker
-sudo systemctl start docker
-```
-
-After installation on any of these platforms, you can verify the installation by running `docker --version` in a terminal to see the installed Docker version.
-
-Remember to consult the official documentation for the most up-to-date and detailed instructions:
-
-- [Docker for Windows](https://docs.docker.com/desktop/install/windows-install/) installation guide
-- [Docker for Mac](https://docs.docker.com/desktop/install/mac-install/) installation guide
-- [Docker for Linux (Ubuntu/Debian)](https://docs.docker.com/engine/install/ubuntu/) installation guide
-
----
-
-### Installing Kubernetes
-
-- Install [Docker](https://docs.docker.com/get-docker/) if you haven't already.
-- Install [kubectl](https://kubernetes.io/docs/tasks/tools/), the Kubernetes CLI tool.
-- Install [Minikube](https://minikube.sigs.k8s.io/docs/start/) for local Kubernetes deployment.
+You can find the prerequisites for each task in the [PREREQUISITES.md](PREREQUISITES.md) file.
 
 ![line]
 
@@ -1598,11 +120,11 @@ _Note: We recommend to always create new branch with each Issue you solve! Other
 
 ## Tasks
 
-_Note: These tasks will not count towards Hacktoberfest or any other similar "coding competitions", since this repository is an educational repository, hence against the Hacktoberfest guidelines._
+_Note: These tasks will not count towards Hacktoberfest, school projects or any other similar "coding competitions", since this repository is an educational repository, hence against the Hacktoberfest guidelines._
 
-We present over 130 several tasks for different languages, libraries and frameworks with varying difficulty. You can choose which task you want to work with and which difficulty you want to solve. You can also choose to solve multiple tasks if you want to. Just remember to create a new branch for each task you solve.
+We present over 139 tasks for different languages, libraries and frameworks with varying difficulty. You can choose which task you want to work with and which difficulty you want to solve. You can also choose to solve multiple tasks if you want to. Just remember to create a new branch for each task you solve.
 
-Firstly, open the `tasks` directory and select which language you want to work with by opening one of the following directories:
+Firstly, in your forked/cloned repository, open the `tasks` directory and select which language you want to work with by opening one of the following directories:
 
 - HTML
 - HTMX
@@ -1638,6 +160,7 @@ Firstly, open the `tasks` directory and select which language you want to work w
 - F#
 - Ada
 - Java
+- Spring Boot
 - Kotlin
 - Scala
 - Groovy
@@ -1697,277 +220,8 @@ Then you can open one of these directories to choose between three difficulties:
 
 After that you are ready to get solving!
 
-Go to the task you selected to get more info about the issue by clicking one of the following:
-
-[HTML - Easy 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1540)
-
-[HTML - Easy 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1541)
-
-[HTML - Easy 3](https://github.com/fork-commit-merge/fork-commit-merge/issues/1576)
-
-[HTML - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1534)
-
-[HTML - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/954)
-
-[HTML/CSS/JavaScript - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/1451)
-
-[HTMX - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1047)
-
-[CSS - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1595)
-
-[CSS - Medium 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1271)
-
-[CSS - Medium 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1371)
-
-[CSS - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/953)
-
-[SASS - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1055)
-
-[SASS - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1049)
-
-[Tailwind CSS - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1519)
-
-[Tailwind CSS - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1506)
-
-[Bootstrap CSS - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1416)
-
-[Bootstrap CSS - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/963)
-
-[ReScript - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1515)
-
-[CoffeeScript - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1512)
-
-[CoffeeScript - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/996)
-
-[JavaScript - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1514)
-
-[JavaScript - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1507)
-
-[JavaScript/Jest - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1378)
-
-[JavaScript/Jest - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/1522)
-
-[JavaScript/Jasmine - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1452)
-
-[TypeScript - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1415)
-
-[TypeScript - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1411)
-
-[TypeScript - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/1040)
-
-[TypeScript/Vitest - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1537)
-
-[React.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1590)
-
-[React.js - Medium 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1531)
-
-[React.js - Medium 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1532)
-
-[Next.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1591)
-
-[Three.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1054)
-
-[Vue.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1007)
-
-[Vue.js - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1031)
-
-[Svelte - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1008)
-
-[Astro - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1024)
-
-[Angular - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1009)
-
-[Solid.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/2449)
-
-[Solid.js - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/2450)
-
-[Ember.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1069)
-
-[GraphQL - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1057)
-
-[NGINX - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1133)
-
-[Express.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1056)
-
-[Electron.js - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1046)
-
-[C - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1414)
-
-[C - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1511)
-
-[C++ - Easy 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1305)
-
-[C++ - Easy 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1306)
-
-[C++ - Easy 3](https://github.com/fork-commit-merge/fork-commit-merge/issues/1307)
-
-[C++ - Easy 4](https://github.com/fork-commit-merge/fork-commit-merge/issues/1309)
-
-[C++ - Medium 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1482)
-
-[C++ - Medium 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1484)
-
-[C++ - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/955)
-
-[C# - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1535)
-
-[Blazor - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1428)
-
-[D - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/952)
-
-[F# - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1510)
-
-[Ada - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1412)
-
-[Java - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1516)
-
-[Java - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1517)
-
-[Java - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/1442)
-
-[Kotlin - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/980)
-
-[Scala - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/981)
-
-[Groovy - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1026)
-
-[Python - Easy 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1503)
-
-[Python - Easy 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1505)
-
-[Python - Easy 3](https://github.com/fork-commit-merge/fork-commit-merge/issues/1520)
-
-[Python - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1523)
-
-[Python - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/1439)
-
-[Flask - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1050)
-
-[Django - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1440)
-
-[Solidity - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1450)
-
-[Vyper - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/951)
-
-[Ruby - Easy 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1086)
-
-[Ruby - Easy 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1085)
-
-[Ruby - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1446)
-
-[Rails - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1448)
-
-[Elixir - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/978)
-
-[Crystal - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/950)
-
-[PHP - Easy 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1593)
-
-[PHP - Easy 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1592)
-
-[PHP - Easy 3](https://github.com/fork-commit-merge/fork-commit-merge/issues/1594)
-
-[PHP - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1279)
-
-[Laravel - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1036)
-
-[Go - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1509)
-
-[Dart - Easy 1](https://github.com/fork-commit-merge/fork-commit-merge/issues/1536)
-
-[Dart - Easy 2](https://github.com/fork-commit-merge/fork-commit-merge/issues/1588)
-
-[Dart - Easy 3](https://github.com/fork-commit-merge/fork-commit-merge/issues/1589)
-
-[Dart - Easy 4](https://github.com/fork-commit-merge/fork-commit-merge/issues/1417)
-
-[Flutter - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1513)
-
-[Swift - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1032)
-
-[React Native - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1421)
-
-[Julia - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1052)
-
-[Rust - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1521)
-
-[Rust - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1441)
-
-[Haskell - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/979)
-
-[Haskell - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/960)
-
-[Lua - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/982)
-
-[Clojure - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/983)
-
-[OCaml - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1068)
-
-[LaTeX - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/889)
-
-[Lisp - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1033)
-
-[Fortran - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1029)
-
-[Pascal - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1065)
-
-[Pascal - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1066)
-
-[COBOL - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1064)
-
-[Erlang - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1028)
-
-[Smalltalk - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/947)
-
-[Zig - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1053)
-
-[R - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1447)
-
-[Nim - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1025)
-
-[MATLAB - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/891)
-
-[Octave - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1027)
-
-[SQL - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/958)
-
-[SQL - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1443)
-
-[SQL - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/1444)
-
-[TLA+ - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1022)
-
-[Bash - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1533)
-
-[Bash - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1063)
-
-[Perl - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1003)
-
-[Mojo - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1402)
-
-[ASM (Assembly) - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1376)
-
-[Markdown - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1524)
-
-[Markdown - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1504)
-
-[Markdown - Hard](https://github.com/fork-commit-merge/fork-commit-merge/issues/976)
-
-[JSON - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1596)
-
-[JSON - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1449)
-
-[TOML - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1051)
-
-[XML - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1379)
-
-[YAML - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1508)
-
-[YAML/Docker - Medium](https://github.com/fork-commit-merge/fork-commit-merge/issues/1375)
-
-[Docker - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1084)
-
-[Kubernetes/YAML - Easy](https://github.com/fork-commit-merge/fork-commit-merge/issues/1389)
+In the GitHub page of the Fork Commit Merge repository, you can find a list of all tasks in the [issues](https://github.com/fork-commit-merge/fork-commit-merge/issues) tab, which you can use to solve the tasks.
+You can search for the task you want to solve and then click on the issue to open it.
 
 _Note: You don't have to ask a permission to start solving the issue or get assigned, since these issues are supposed to always be open for new contributors. You can just simply start working with the issue right away! Remember that in real world issues you would usually need to ask permission to get assigned to certain issue to prevent multiple people to working on the same issue at the same time, which would result some contributors wasting their time._
 
@@ -2021,23 +275,41 @@ All the contributors of this project will also be added to the List of Contribut
 
 ![line]
 
-## Best Practices
+## Resolving Merge Conflicts
 
-Programming languages, despite their diverse syntax and underlying paradigms, universally emphasize the importance of adhering to best practices. These practices evolve over time, influenced by shared challenges faced by developers, innovations in the field, and the inherent features and limitations of the languages themselves. This section serves as a compass, guiding you through the idiomatic ways of coding in various languages, ensuring not only that your code works but also that it aligns with the conventions and norms of the community.
+Merge conflicts occur when Git cannot automatically merge changes from different branches because the same lines of code have been modified in different ways. This is a common situation in collaborative development and is nothing to worry about.
 
-Why Follow Best Practices?
+### Why Do Merge Conflicts Happen?
 
-- Readability: Code is read more often than it's written. Adopting best practices ensures your code remains accessible and comprehensible to other developers, or even to your future self!
+- **Simultaneous edits**: Two or more developers modify the same lines of code
+- **File deletions**: One person deletes a file while another modifies it
+- **Branch divergence**: Changes made in parallel branches that affect the same code
 
-- Maintainability: Idiomatic code, by adhering to established patterns and standards, is easier to update, debug, and expand upon.
+### How to Resolve Merge Conflicts
 
-- Performance: Often, best practices evolve in response to the understanding of a language's performance characteristics. Writing idiomatic code might also mean squeezing the best performance out of your programs.
+1. **Identify the conflict**: Git will mark conflicted sections with special markers:
 
-- Community Support: If you're writing code in the way that the broader community expects, you're more likely to receive help when you run into issues. Moreover, you can benefit from tools, linters, and extensions built with these practices in mind.
+   ```
+   <<<<<<< HEAD
+   Your changes
+   =======
+   Incoming changes
+   >>>>>>> branch-name
+   ```
 
-- Reducing Errors: Many best practices are born from the lessons of countless debugged issues. By adhering to them, you’re sidestepping many pitfalls before they even occur.
+2. **Edit the file**: Remove the conflict markers and choose which changes to keep, or combine them appropriately. In real life scenarios, you would likely have to consult your fellow developers about which changes to keep and which to discard, but since this is an educational repository, it doesn't matter which changes you keep in the conflicts, you can just remove either the current change or incoming change. You can resolve the conflicts when you click the resolve conflicts button in this PR.
 
-In our [Fork, Commit, Merge website](https://forkcommitmerge.dev), you'll find guides tailored to various languages, libraries and frameworks. Whether you're dabbling in a new language or revisiting a familiar one, these insights will help ensure your code is elegant, efficient, and effective.
+3. **Stage the resolved file**: Use `git add <filename>` to mark the conflict as resolved
+
+4. **Complete the merge**: Run `git commit` to finish the merge process
+
+### Tips for Avoiding Conflicts
+
+- Pull the latest changes before starting work
+- Create a new branch for your changes
+- Keep your changes focused and small
+- Commit only the files you have changed, nothing else
+- Use meaningful commit messages to track changes
 
 ![line]
 
@@ -2897,3 +1169,392 @@ Massive thanks to all of the these fine individuals who contributed to this proj
 <a href="https://github.com/s-aahmedramlan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61249630?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
 <a href="https://github.com/murugnn"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/182933442?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
 <a href="https://github.com/ErwinGoneMad"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/108072500?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aujooj"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91268277?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/nomansheikh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40509801?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/prahe184"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/177698715?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/leomiguel15"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/84825316?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gasparbucuane"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/56996622?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ctorres4564"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/169197115?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/TalhaJubaerPrantor"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/171762716?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AbraxasContact"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/206266591?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/tcoders16"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/166409459?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Soham-47"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/179202202?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Sathish36311"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/150322266?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shrujaya"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/64205269?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Deku04-print"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/112274179?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ohad-ab"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/73171891?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/dbto"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/11198838?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/UmarNasib"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/16023298?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shakutori"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/43532629?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mareh786"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/116783167?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/efrathartman"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/158051776?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/microbotas"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106125327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/teejcoder"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/96551689?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/fcendesu"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/44734150?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/oumseyoung"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101507567?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AppiumMal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52282002?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/moteeb-asad"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/112121704?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/madamo"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/6146497?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Xavi1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/23324798?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dhanalakshmi23s"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/131767292?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Karthikanegouni"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/84900143?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/guidosti"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60514428?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/GergesHany"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/105644935?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/IrfanSarwar519"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/98154173?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/itsmekaved"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133058414?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ahmad-Faraj"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/148560615?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/OC0NER"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154689355?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/VerneZhong"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/28047190?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kroej"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/188657775?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/abdelrahim3aa"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/138967079?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Muawiya-contact"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/178013839?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Nischayabeniwal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70566340?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Bijay-Shre-stha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/108262068?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kanakver"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/137432080?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/PaulK1246"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/207171952?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/JakeOJeff"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/87922888?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/maduranga20"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57855228?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/xankush"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/146610552?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Bakari-K"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/200834907?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Prateek-Kerketta01"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123981233?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/curiousbud"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/144376035?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shivt-F5"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/54018320?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mnmfullmetal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/29268668?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ifaakash"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/192798446?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dani234jf"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/171485774?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/farahmahfouz"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/122357697?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/soumik-saha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103322943?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/umairrkhan009"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/157248715?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Keerthi421"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/159991565?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/emrecan15"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93402043?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Furkancan643"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/149885654?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aditya290605"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/144461083?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/somanosuke"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81865222?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/hurtki"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/162747234?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Devansh501"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81950589?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/alexola"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/24922157?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mike-s-zaugg"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197645380?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SahilBijlani"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/115956219?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/prowessclust"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/166229841?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/harry-the-captain"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/155612183?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shahzar100"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/117044748?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/eiditakahashi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/2084012?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/anita-david"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81171558?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mrvi0"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/196581611?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/divyanshsirohi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/148632808?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Flashdaniel"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49584202?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gakukinn"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139479429?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gustavooarantes"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/172617513?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Lucas-Code27"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83315414?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SeifShaheen"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/82758372?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/BeastHarsh047"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/77875433?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ShantanuWebDev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/104818503?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/noirtiercano"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/185536716?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/nnoonnnn"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/124767823?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Gayathri-K-Binoy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/183906230?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MEGHALINN"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/121880794?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mac146"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/201369671?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jhwgan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/188318608?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/B2206005"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/214650255?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mahim-Github"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139007842?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/artimmy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/31295727?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/om272004"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/108511021?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Riteshpaul3"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/155266018?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/umuttopalak"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100470201?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/PinankB"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/99079163?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mugunth007"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81457130?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RonydaEssam"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91038290?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ammysharma11"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/108935281?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/efrat-hazan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/177580727?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HarshitGourlariya"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/187002678?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sagarbharadia17"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49914768?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Sniperplank"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/97557078?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/aravindan888"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83415736?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/yamaurakazuto"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143419323?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HabibParvej"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/134181421?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dexter2038"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/116676321?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sanjib2006"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/178703817?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vansh-Singhal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/161223330?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ameer2750"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/72147027?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/NEKKALAPUSIVASATYASAILIKHITHA"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143267034?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/tharani-2006"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/188644592?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ranjith935"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123797200?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Shantanudhanawade"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/213838260?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mhmdgh92"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/130286049?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gangeagui"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143354660?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HabibaBinteAmir"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/180546073?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/WAQAR-HAIDER05"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/107320775?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sanajitjana"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/76105799?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ROSPL07"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/225134059?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/herminagarg"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/35031115?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Lincoln-M-Oliveira"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/225424608?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/arhamkac"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/180934131?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Roma3214185"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/188760963?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sbera13"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52022700?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/OmegaSechs"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/125929484?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/p-alvarenga"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/99832312?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mariyam-hanna"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/132428985?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Valcyle"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103478170?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Prabhu-1409"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106946918?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/isiperez22"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/145776177?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/p55d2k"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/124562280?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ogoruwa"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/156860592?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ossy-em"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/152865364?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ushio-Hayase"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/166292944?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/hayatokatagiri"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/35617600?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mohamedsalem21v"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/121032485?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Khushleen-Kaur"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/141584284?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SourishBhattacherjee"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143819787?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/LoukasMastorekas"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/147047383?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/tusharkumar08"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/76196790?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mbarek-hani"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154982817?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/svuksanova"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/46635188?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jiya19g"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/130821609?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/yash-1104github"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101111693?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KaranUnique"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/196971692?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mehmet-Alpergun"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93308368?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aditee-18"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/189283537?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Demagalawrence"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/180923125?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/diamond2016"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/17258319?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mandip-kamaliya"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/144941685?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/NABUKEERAJULIET"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/229825506?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/5h4rk-lab"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/64501067?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/eldred16"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/185238919?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/geniusjun"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/112895293?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/JuanDavidGonzalezDev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/223373649?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/patraarka"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113913573?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mohamedan-Farag"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/120517880?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Nithwin"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/132214352?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/72umesh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127204670?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ethos021"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101442889?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kannna5296"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/58777139?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/hiitarun1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/179315662?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/DaleB123"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/148990124?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/drodriguez881"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/188823009?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/danielelbaz7"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/175679070?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Piyushpal01"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/145381638?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/prabhakaran-jm"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52810378?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KrishnapalTomar01"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/44991138?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Tosinibikunle"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89074158?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/TusharGupta-Developer"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/140967033?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Sai-Sravya-Thumati"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/64857617?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Raad05"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/59793329?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/farhanmir"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/77865024?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RijuPandey"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/166269290?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/irfankhansajid"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/56930422?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/PsydoV2"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/98661733?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KubanjaElijahEldred"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/185238919?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/4eab"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/193944771?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/nabayousuf27"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/171433928?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/arch92"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/3901126?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/CharanBoddu"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/53311574?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/vinothini19"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/232061426?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jcs-denverdev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63527561?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MaelBallereau"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/157124771?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aravind30648"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221258979?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/David24330"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/157124826?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/anumolusneha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221060438?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SagarKharat94440"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/153504870?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/justynakwasniak"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/152686572?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AkhilChowdary2222"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/203651605?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/LuisoJSM"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/132158051?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/DivaneWangue"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/163726583?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gregpuzzles1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1620160?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shardulkulk297"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/107064681?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/manikonda-anjali"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221044812?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Talasudeepk"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/193252434?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/v-hasini"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/220831395?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shanaya-Gupta"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/116062563?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Sirireddy1910"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/220830818?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Olexandr88"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93856062?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/egenuise"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/145421063?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SrDyw"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/96890386?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/blu3-bird"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/194448323?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/akbar-kurnia1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100073066?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ghaith-Saidani"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100580313?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Hamidou3110"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/206198208?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/phoenix66666"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/46098128?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sanchezgica"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/96532433?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MDGanesha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/153614493?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Nihhaar0002"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/228485864?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Gokul45-45"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/231147358?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SuryaGanesh284"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221060874?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/prasanth-30011"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221947950?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AHVSSATHVIK"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/202169230?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Raghu0703"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/235543137?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Sathvikaundala"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221063571?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/bangarumahesh22"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/228486354?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/2400032286"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/229104133?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Gorlesunilkumar"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/231148023?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gowtham1412-p"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/229075747?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/duvvuvenkataramana"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221045957?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RamsaiPolisetti"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221009516?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kl2400033266"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/201090206?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/2400033206"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/220878327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ronak501"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/168280442?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Manthancode28"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/152332786?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KrakenAU"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/36147266?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SimonADW"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/112318684?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Anas-16"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/110794913?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/VasilisKokotakis"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143056796?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sbeadc"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/16181747?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Akshay1833"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/107573834?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/znecesito"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/24905481?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Illiadeveloper"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/157731687?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Surajnairx"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91962694?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Kumardk8780"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/54668564?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jikrana-del"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221676318?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/zaibamachhaliya"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/222653703?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sarveshshriram"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/238980637?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Manoo089"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92822833?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/adityav27"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/194900185?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Salehcodes"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/18658594?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mohidul32"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/54430285?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/codyGaurav2"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/206211409?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/abubakar-sadiq001"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133000436?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/goodsamaritan00"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106182041?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KareemAllam"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/36572428?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KatyaLarson"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/30143724?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Adil-Akothiat"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/45335781?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/masawik"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/56366545?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ashpawarash1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/95329958?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jayalloyd"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/161838111?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/hyunjunko01"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61777115?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/dhruvac29"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/50516925?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Morales020"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114666874?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/zeyad12-d"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/185805596?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/anandanirudhan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/239183854?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Abhi-2516"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127724654?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/2400032210"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/228502085?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MasterYoav"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89444638?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/younes-alhyan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/140889727?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/DaniyalMShehzad"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/86773620?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/srinadh14321"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/221995886?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Jeyapaul"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/9534808?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SrideviS-14"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103082820?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/anup30"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/11464822?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/akshay-it23"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/229804345?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/fadigatardzenyuy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/164689751?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SSSM0602"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/25806026?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/archis17"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139427092?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/xtallp"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/219134970?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Pranav301006"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/132185314?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Obi1-x"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52882355?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Arjun-19A"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/180659617?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/tanisha0423"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/161014421?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/BinaryWizar"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/136156632?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Hetg411"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/196148526?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ynamkit13"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/214979409?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Tanushree-122"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/224550564?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RahilHalai7"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/134063723?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/pavithapari"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197348347?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/shafqat-baloch786"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127025744?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gmnabeel"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/36754286?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vlakiz"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/46784289?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Alauddinbukhari"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/56410694?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/YKorniienkova"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/108528691?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/muhammadhassanmahar"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/212078171?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gialampou"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/147716645?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/dagioups"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/147716753?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/abdussamad567"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/219780238?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/PavaraM"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101268553?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/chirayu-lab"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/188750287?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/lemmargo"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/256362674?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/2d-game-dev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/203641036?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Rubick65"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/201750178?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mitschlagel"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/67398650?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AbhiSahane0"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79399513?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/lavanitha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/202476260?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/PMontesi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/148535566?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SakshiGupta26"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/199702556?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ActualRML"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/140380025?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/marwa-eltayeb"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/25967000?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/brijesh-dt"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/219136521?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/GRICHChaimae"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93976924?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ritikaa1802"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/214799084?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/oona34"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91124643?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/imranmalakzai"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/207894927?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vikram-sardiwal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/183258295?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aneesh-0108"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/182948037?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/veronicaoi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/185003745?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Shaylapham-05"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/196226534?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/apoorvdarshan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90602809?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ianma5"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/173874486?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Meatix"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/236214806?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AliyaRazyapova"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/107623879?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HemanthGowdaHM"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/184737659?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mananjp"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/187887332?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/travisbreaks"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/148665997?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/KINnao087"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/150821528?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Lichu23"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/104318417?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dhanjith01"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/172830598?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Phourtie-Phour"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114376783?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/bhavithreddy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/76043205?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sakiluddin-1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/116053951?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/LLLLLLisaa"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143221980?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/maniking1299"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/137608251?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vansh1811"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/192606842?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ashusf90"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/153393197?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SumanMoharana24"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/244779835?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/NishantkumarABES"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/94185893?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/iamabhijeet20"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/43907897?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Amittallur"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61627962?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/He1senberg8"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/167128931?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/navneet-97"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/162593221?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Adarsha08"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139031133?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gameboythe1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/99752191?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/itsmesihle"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127839410?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/khairajram"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/145283068?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/universe7creator"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/270255806?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/geozar26"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/208685185?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aakif-Kohari"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/159609181?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Adityacs502004"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/193675628?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/zulkiflidev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/44313543?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/aelaraby6"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/154278999?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Athish-frontend"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/180030978?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/vj1932"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60979845?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/wahajahmed010"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57330918?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/zakitahraoui123-cmd"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/238212499?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/q404365631"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/260932909?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ephantus2"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/198939472?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/snehalata2027"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/276633558?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Fran-narang"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/222741171?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/om-bhadauria"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/235681536?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Delis2001"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/169038234?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Naincyshrivastava05"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128071414?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/lrg913427-dot"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/279154854?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/GSuryaP"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/144923822?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mohanapriya-sparks"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/200455304?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ik-awais"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/213292982?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/thosewhoyoulove"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90265074?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Poonam-Biradar"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/149887192?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/madnessqw"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/207336087?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/the-Sunny-Sharma"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119731813?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/yashtiwari10"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/170350065?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MenachoIvan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92464787?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Monam1083"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/204480982?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/liascope"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/169360257?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sheikh-saifi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197978205?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aidenrmz"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/183678257?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/zhihai888"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/285636196?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MD-Mushfiqur123"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/206438734?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HimaniParik"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/230002777?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/magnet78"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/206966012?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dharmesh070294"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/199227825?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Alien0Dev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/166286584?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/oheliav"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/105568000?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/asmita-saha-07"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/237842487?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/aishvibansal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/157486117?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/lucasdavid11"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85707256?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Krow1224"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119715117?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/salkalero"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/48950749?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Skywalkingzulu1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114562400?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SAYAK17-abd"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/211287044?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/taqitahmid1029"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/131511564?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ghatageakshay"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/207402141?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/nightcityblade"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/260356847?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/bruhjeshhh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/189255710?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mositat7"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/173060745?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/veerlakshay"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/173218492?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ELITE-DEV-22"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/111784276?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/maitriupadhyay03-cell"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/238037247?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
